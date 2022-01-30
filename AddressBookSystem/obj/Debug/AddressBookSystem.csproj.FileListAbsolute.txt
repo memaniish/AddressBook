@@ -1,0 +1,3 @@
+C:\Users\Manish\OneDrive\Desktop\RFP102Batch\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.AssemblyReference.cache
+C:\Users\Manish\OneDrive\Desktop\RFP102Batch\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manish\OneDrive\Desktop\RFP102Batch\AddressBookSystem\AddressBookSystem\obj\Debug\AddressBookSystem.csproj.CoreCompileInputs.cache
